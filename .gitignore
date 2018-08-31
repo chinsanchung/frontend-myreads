@@ -1,3 +1,9 @@
+.DS_Store
+.htmlhintrc
+.stylelintrc
+.eslintrc.json
+.eslintrc.js
+styles/sass
+
 node_modules
 yarn.lock
-.DS_Store
