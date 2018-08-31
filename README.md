@@ -6,7 +6,7 @@
 
 ## Preparations
 - At first, you should install NPM at the project folder. `npm install`
-- Second, Link and Route component need react-router-dom. Install it. `npm install --save react-router-dom`
+- Second, Link and Route component need react-router-dom. Install it. `npm install --save react-router-dom`. But package.json has dependencies, so it will be installed with `npm install`.
 
 ## Funtion
 - At main page, there are list of books from Book Lender API.
@@ -21,6 +21,7 @@
 - Make functions such as changing and classifying shelf, saving texts that user typed, showing result that user searched.
 - Changing a tag to Link component.
 - Give URL to main, search page by using Route component.
+- Using gulp dev tools such as SASS, gulp-autoprefixer to change CSS, and ESLint to check JavaScript file.
 
 ## Reference
 - [W3Schools](https://www.w3schools.com/)
